@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .dif-title {
-  position: relative;
+  position: absolute;
   font-size: 58px;
   color: transparent;
   -webkit-text-stroke-width: 2px;
