@@ -47,6 +47,19 @@ h6 {
   text-decoration: none;
   white-space: nowrap;
 }
+.navbar{
+  
+  transform: translate3d(0, 0, 0);
+}
+.navbar.sticky{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 999;
+
+}
 
 .Logo {
   display: flex;

@@ -2,6 +2,9 @@ import React, { useRef, useEffect } from 'react';
 
 
 
+
+
+
 function Landingpage() {
   const orbitingImageRef = useRef(null);
     useEffect(() => {
@@ -36,9 +39,9 @@ function Landingpage() {
           </button>
         </div>
         <div className="lg:w-1/2 relative mt-8 lg:mt-0"> {/* Image container, responsive and positioned relative */}
-          <img src="src/assets/images/first-bg.svg" alt="Background" className="w-full h-auto" /> {/* Background image */}
+          <img src="src/assets/images/first-bg.svg" alt="Background" className="w-full h-auto top-0" /> {/* Background image */}
           <img src="src/assets/images/circle-area.svg" alt="Orbit" 
-          className="absolute top-0 left-0 w-full h-full"
+          className="absolute top-0 left-5 w-full h-full"
           ref={orbitingImageRef}
           style={{transition: 'transform 5s linear infinite'}} /> {/* Orbiting image */}
         </div>
