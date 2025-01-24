@@ -26,11 +26,11 @@ function Workprocess() {
                   <span>01</span>
                 </div>
               </div>
-              <div className="process-detail flex flex-col items-center mx-9">
+              <div className="process-detail flex flex-col items-center  ">
                 <h1 className="process-name text-center text-white text-2xl font-bold py-2 ">
                   Planning
                 </h1>
-                <p className="text-center px-5 text-[#7E7E7E]">
+                <p className="text-center   text-[#7E7E7E]">
                   We start by carefully considering your vision, objectives, and
                   particular needs
                 </p>
@@ -47,11 +47,11 @@ function Workprocess() {
                   <span>02</span>
                 </div>
               </div>
-              <div className="process-detail flex flex-col items-center mx-9">
+              <div className="process-detail flex flex-col items-center  ">
                 <h1 className="process-name text-center text-white text-2xl font-bold py-2 ">
                   Prototyping
                 </h1>
-                <p className="text-center px-5 text-[#7E7E7E]">
+                <p className="text-center   text-[#7E7E7E]">
                   We start by carefully considering your vision, objectives, and
                   particular needs
                 </p>
@@ -68,11 +68,11 @@ function Workprocess() {
                   <span>03</span>
                 </div>
               </div>
-              <div className="process-detail flex flex-col items-center mx-9">
+              <div className="process-detail flex flex-col items-center  ">
                 <h1 className="process-name text-center text-white text-2xl font-bold py-2 ">
                   Development & Deployment
                 </h1>
-                <p className="text-center px-5 text-[#7E7E7E]">
+                <p className="text-center   text-[#7E7E7E]">
                   We start by carefully considering your vision, objectives, and
                   particular needs
                 </p>
@@ -89,11 +89,11 @@ function Workprocess() {
                   <span>04</span>
                 </div>
               </div>
-              <div className="process-detail flex flex-col items-center mx-9">
+              <div className="process-detail flex flex-col items-center  ">
                 <h1 className="process-name text-center text-white text-2xl font-bold py-2 ">
                   Product Launching
                 </h1>
-                <p className="text-center px-5 text-[#7E7E7E]">
+                <p className="text-center   text-[#7E7E7E]">
                   We start by carefully considering your vision, objectives, and
                   particular needs
                 </p>
