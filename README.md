@@ -85,7 +85,7 @@ Contributions are welcome! Follow these steps:
 For queries or collaboration:
 - **GitHub:** [Bhargav-Vadodariya](https://github.com/Bhargav-Vadodariya)
 - **Email:** Bhargavvadodariya007@gmail.com
-- **LinkedIn:** [Bhargavvadodariya]([https://linkedin.com/in/yourprofil](https://www.linkedin.com/in/bhargav-v-3b49021a9/))
+- **LinkedIn:** [Bhargavvadodariya]([https://www.linkedin.com/in/bhargav-v-3b49021a9/])
 
 ---
 🚀 *Built with passion by Bhargav Vadodariya and contributors!*
